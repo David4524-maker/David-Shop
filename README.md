@@ -50,6 +50,8 @@ Por defecto, todo el software o juego HTML adquirido a través de la tienda se d
 
 [App Store](https://www.apple.com/mx/app-store/)
 
+[Softonic](https://www.softonic.com)
+
 > IMPORTANTE: App Store solo esta para dispositivos Apple (Como iPhone o Macbook)
 
 ---
