@@ -41,4 +41,17 @@ Al iniciar por primera vez, puedes registrar una cuenta nueva o ingresar directa
 Por defecto, todo el software o juego HTML adquirido a través de la tienda se descargará de manera real en tu carpeta de usuario del sistema, dentro del directorio: `~/David_Shop_Downloads`.
 
 ---
+
+## Otras alterntivas
+
+[Microsoft Store](https://apps.microsoft.com/home?hl=es-MX&gl=MX)
+
+[Google Play Store](https://play.google.com/store/games?hl=es_MX)
+
+[App Store](https://www.apple.com/mx/app-store/)
+
+> IMPORTANTE: App Store solo esta para dispositivos Apple (Como iPhone o Macbook)
+
+---
+
 *David Shop · Hecho con fines educativos y de portafolio · 100% legítimo 😉*
